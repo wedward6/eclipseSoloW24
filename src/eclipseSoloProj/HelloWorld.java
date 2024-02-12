@@ -3,7 +3,7 @@ package eclipseSoloProj;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Orange you glad I didn't say banana");
 
 	}
 
